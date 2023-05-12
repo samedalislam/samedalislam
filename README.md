@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SAMED AL ISLAM</h1>
 <h3 align="center">A passionate frontend developer. JavaScript/TypeScript | React/Next.js</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Click to visit website:  <a href="'https://samedalislam.vercel.app/>Punch me</a></h3>
 <p align="left">
 </p>
 
